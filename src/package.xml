@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+ 
+        <types>
+        <members>Account.SFMCFields</members>
+        <members>Additional_Address__c.AddAddressSFMCFields</members>
+        <members>Asset.AssetFieldTracking</members>
+        <members>CMPL123CME__Concomitant_Product__c.CMPL123CME__Concomitant_Products_EMDR_RL_FS</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__A_1_GENERAL_INFORMATION</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__A_PATIENT_INFORMATION</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__B_ADVERSE_EVENT_OR_PRODUCT_PROBLEM</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__D_SUSPECT_MEDICAL_DEVICE</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__E_INITIAL_REPORTER</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__F_FOR_USE_BY_USER_FACILITY_IMPORTER</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__G_ALL_MANUFACTURERS</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__H_DEVICE_MANUFACTURERS_ONLY</members>
+        <members>CMPL123CME__EMDR__c.CMPL123CME__SUPLEMENTAL_EMDR_RL_FS</members>
+        <members>CMPL123CME__EMDR__c.Submission_Related</members>
+        <members>CMPL123CME__Submission_History__c.CMPL123CME__Submission_History_EMDR_RL_FS</members>
+        <members>Case.CaseSFMCFields</members>
+        <members>Order.OrderSFMCFields</members>
+        <members>PersonAccountAdditionalAttributes__c.PAAddAttSFMCFields</members>
+        <members>PotentialReportableIncident__c.PRIHistoryTracking</members>
+        <members>Task.Task_EMDR_RL_FS</members>
+        <name>FieldSet</name>
+    </types>
+        
+    <version>41.0</version>
+</Package>
